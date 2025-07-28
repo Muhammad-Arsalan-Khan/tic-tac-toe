@@ -37,4 +37,4 @@ To run the game locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cross-zero-game.git
+   https://github.com/Muhammad-Arsalan-Khan/tic-tac-toe.git
